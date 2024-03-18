@@ -1,0 +1,14 @@
+body{
+  background: linear-gradient(rgb(4, 148, 100), rgb(127, 226, 193)) ;
+  min-height: 100vh;
+  overflow: visible !important;
+}
+
+.userDiv{
+  background-color: rgba(0, 0, 0, 0.459);
+}
+
+td, th {
+  border: 1px solid black !important; 
+  padding: 8px!important;
+}
